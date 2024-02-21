@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "FertigoPro-Regular2";
+  src: url("./fonts/exljbris-fertigopro-regular.otf");
+}
+:root {
+  --primary-color: #990000;
+  --secondary-color: #e52d3a;
+  --font-tittles: "FertigoPro-Regular2";
+}
